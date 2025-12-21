@@ -4,4 +4,6 @@ Louis
 Smily
 Mocha
 Snoopy
+George the frog
+Monty
 
