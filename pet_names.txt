@@ -2,3 +2,6 @@ Jasmin
 Leo
 Louis
 Smily
+Mocha
+Snoopy
+
